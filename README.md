@@ -34,7 +34,7 @@ Una vez naveguemos hasta donde se encuentren los archivos correspondientes a la 
 ```
 node main.js
 ```
-una vez realizado se habrá ejecutado la práctica con los valores predeterminados, es decir, 9 bloques con la dificultad '00'
+una vez realizado se habrá ejecutado la práctica con los valores predeterminados, es decir, 8 bloques con la dificultad '00'
 
 ## Hecho con
 
